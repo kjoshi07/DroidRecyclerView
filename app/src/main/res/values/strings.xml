@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Droid RecyclerView</string>
+    <string name="add_customer_text">Provide below details to add a customer</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="company">Company</string>
+    <string name="add_customer_button">Add</string>
+    <string name="add_more_save_customer">Save &amp; Add More</string>
+    <string name="first_name_blank">Please enter your first name.</string>
+    <string name="last_name_blank">Please enter your last name.</string>
+    <string name="email_blank">Please enter your email.</string>
+    <string name="phone_blank">Please enter your phone no.</string>
+    <string name="company_blank">Please enter company name.</string>
+    <string name="toast_message">Customer has been saved successfully.</string>
+    <string name="toast_error_message">There is some issue in saving customer information.</string>
+    <string name="dialog_customer_save">Saving customer info..</string>
+    <string name="dialog_waiting">Please wait...</string>
+    <string name="dialog_customer_list">Getting all Customers..</string>
+</resources>
